@@ -1,5 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE collection manager"
-HOMEPAGE="http://tellico-project.org/"
-SRC_URI="http://tellico-project.org/files/${P}.tar.bz2"

@@ -1,0 +1,13 @@
+inherit kde4
+
+NAME="tellico"
+VERSION=2.3.8
+RELEASE=1
+CATEGORY="Utils"
+SUMMARY="KDE collection manager"
+DESCRIPTION="Tellico makes it easy to track your books, videos, music, even
+your wine and anything else. A simple and intuitive interface shows cover
+images, groupings, and any detail you want. Grab information from many popular
+Internet sites, including IMDB.com, Amazon.com, and most libraries."
+HOMEPAGE="http://tellico-project.org/"
+SRC_URI="http://tellico-project.org/files/tellico-${VERSION}.tar.bz2"

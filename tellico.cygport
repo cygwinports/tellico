@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="tellico"
-VERSION=2.3.8
+VERSION=2.3.9
 RELEASE=1
 CATEGORY="Utils"
 SUMMARY="KDE collection manager"
